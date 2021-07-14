@@ -9,12 +9,12 @@ Search engine
 Time showing feature 
 Quit option
 
-Real world applications
+#Real world applications
 
 The project is highly applicable in real world and highly compatible for automating day to day task and find a broader use in near future it finds a great application in chat bots for discord telegram whatsapp also hardware devices such as alexa google mini are based on this  it finds a great application in iot devices and home automation 
 
 
-Used Python Modules
+#Used Python Modules
 
 SpeechRecognition
 WebBrowser
@@ -25,7 +25,7 @@ datetime
 os
      
 
-More features to come
+#More features to come
 
 Using openweather api to display weather of selected place
 SMS service
