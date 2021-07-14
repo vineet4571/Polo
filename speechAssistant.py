@@ -14,9 +14,6 @@ import requests as rq
 
 key="8d4a4188d649c148f6db44f7f44bf60a" #openweather
 r = sr.Recognizer()
-account_sid = 'ACf02f8ab3ed6631173b528559e855806b' #twilio
-auth_token = '6b1d020b73fa2ade280c145da5a6c9cf' #twilio
-client = Client(account_sid, auth_token) #twilio
 endpoint="https://api.spotify.com/v1/artists/"#spotify endpoint
 
 parameters={
@@ -194,4 +191,4 @@ while(1):
 #sendsms()
 # getalbums("one direction")#basic prototype for using
 # getrelatedartist("one direction")
-# gettemp("gwalior")
+# gettemp("mathura")
