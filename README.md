@@ -22,7 +22,7 @@ The project is highly applicable in real world and highly compatible for automat
 <li>gtts<br/>
 <li>time<br/>
 <li>datetime<br/>
-<li>os<br/>
+<li>os  
      
 
 <h1>More features to come</h1>
