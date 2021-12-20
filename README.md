@@ -1,4 +1,4 @@
-# Speech-Assistant
+# Polo
 Our project is aimed at making automation an easy task the project uses various python libraries to make it easy it is able to communicate with the user and provide answers to queries which he is looking for such as visiting youtube or using google search engine for speech recognition it uses google speech api and text to speech feature is also implemented speech to text and text to speech have become a great task nowadays the gui is kept simple 
 and human interactivity are given a priority over user interface
 
